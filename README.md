@@ -2,6 +2,8 @@
 -------
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com) - Brian Fantana
 
+:basecamp: AppSec Analyst @ Equinor
+
 👀 I’m interested in
   - Game-dev / Gaming
   - Programming
